@@ -56,6 +56,7 @@ flutter:
   assets:
     - assets/icons/
     - assets/images/Categories/
+    - assets/images/PreferredCuisines/
 #    - assets/images/Allergic/
 
   # The following line ensures that the Material Icons font is
@@ -98,3 +99,7 @@ flutter:
      fonts:
        - asset: assets/Fonts/Poppins/Poppins-Black.ttf
          weight: 900
+   - family: League Spartan
+     fonts:
+         - asset: assets/Fonts/LeagueSpartan/LeagueSpartan-Regular.ttf
+           weight: 400
